@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=indra-2078" alt="indra-2078" /></a> </p>
 
-- 🌱 I’m currently learning **C++ , TensorFlow**
+- 🌱 I’m currently learning **C++ , Machine Learning and Data Analysis**
 
 - 📫 How to reach me **indradhanushhs@gmail.com**
 
